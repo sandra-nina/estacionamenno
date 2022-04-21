@@ -1,0 +1,20 @@
+body {
+    background: url(../img/fundo.jpg) 5% 5%;
+	
+}
+
+img#logo {
+    
+    width: 270px;
+    height: 120px;
+}
+
+footer#rodape p {
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+ 
+footer#rodape a {
+    color: #C8C8C8;
+    text-decoration: none;
+}
